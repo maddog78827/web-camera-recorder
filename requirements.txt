@@ -1,4 +1,4 @@
 cmake
 flask
-gunicorn
-opencv-python
+gunicorn== 19.9.0 
+opencv-contrib-python
