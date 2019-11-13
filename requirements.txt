@@ -1,0 +1,4 @@
+cmake
+flask
+gunicorn
+opencv-python
